@@ -77,3 +77,4 @@ api-getway/.settings/org.eclipse.jdt.core.prefs
 api-getway/.settings/org.eclipse.jdt.apt.core.prefs
 api-getway/.settings/org.eclipse.core.resources.prefs
 api-getway/.factorypath
+.vscode/settings.json
